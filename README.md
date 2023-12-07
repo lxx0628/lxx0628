@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lxx0628
-- 👀 I’m interested in AI Testing.
+- 👀 I’m interested in Software Engineering / AI Testing.
 - 🌱 I’m at Zhejiang University.
 
 
